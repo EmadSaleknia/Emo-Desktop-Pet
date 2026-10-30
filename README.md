@@ -17,5 +17,4 @@ An interactive Emo desktop pet built with Python and PyQt5. It reacts to typing,
    ```bash
    python main.py
 
-
 Or simply download the portable .exe from the Releases section!
